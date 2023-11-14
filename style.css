@@ -1,0 +1,26 @@
+/* Header */
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Body Section 1 */
+.body-section1 {
+    background-color: grey;
+    padding: 20px;
+}
+
+/* Body Section 2 */
+.body-section2 {
+    background-color: grey;
+    padding: 20px;
+}
+/* Footer */
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
